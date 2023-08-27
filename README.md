@@ -1,1 +1,1 @@
-# algorithm
+Kindly check through the Algorithm (sentence).
